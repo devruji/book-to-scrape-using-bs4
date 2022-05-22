@@ -8,7 +8,7 @@ The goal of the task is to create an end-to-end flow that scrapes the website fo
 
 ## Sample record
 Below is a sample record from the JSON file if the Scraper is implemented correctly:
-```
+```json
 {
 	"UPC": "a897fe39b1053632",
 	"Product Type": "Books",
